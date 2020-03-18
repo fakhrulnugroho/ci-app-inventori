@@ -2,7 +2,7 @@
 
 ### Kenapa saya membuat aplikasi ini?
 
-Ini merupakan aplikasi pertama yang akan saya jadikan sebagai portfolio. Sebenarnya saya sudah banyak membuat banyak aplikasi berbasis web, namun saya lupa membackupnya. Jadi saya harus mengulang lagi dari awal demi portfolio. Selain sebagai portfolio, contoh aplikasi ini juga bisa saya jadikan sebagai latihan untuk mengasah skill koding saya.
+Ini merupakan aplikasi yang akan saya jadikan sebagai portfolio. Sebenarnya saya sudah banyak membuat banyak aplikasi berbasis web, namun saya lupa membackupnya. Jadi saya harus mengulang lagi dari awal demi portfolio. Selain sebagai portfolio, contoh aplikasi ini juga bisa saya jadikan sebagai latihan untuk mengasah skill koding saya.
 
 ### Untuk siapa sih aplikasi ini?
 
