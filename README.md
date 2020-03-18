@@ -1,4 +1,4 @@
-# Aplikasi Penjualan Dengan Framework CodeIgniter 3 & Template SB Admin 2
+# Aplikasi Inventori Dengan Framework CodeIgniter 3 & Template SB Admin 2
 
 ### Kenapa saya membuat aplikasi ini?
 
